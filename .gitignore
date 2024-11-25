@@ -1,0 +1,13 @@
+# Virtual environment
+venv/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Streamlit's config files (if any)
+.streamlit/
